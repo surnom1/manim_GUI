@@ -1,1 +1,6 @@
-./manim-gui-app/*.svg
+# Ignorer tous les fichiers SVG dans l'ensemble du projet
+*.svg
+
+# Vous pouvez aussi ajouter d'autres fichiers générés ou dossiers
+__pycache__/
+*.pyc
